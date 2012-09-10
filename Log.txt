@@ -1,0 +1,1 @@
+CTexture::Initialize() : could not load Assets/hud.ddsCD3DHandler::Initialize() : could not create the texture for the depth bufferCRenderer::Initialize() : could not initialize Direct3D 11CSystem::Initialize() : The renderer has not been initialized
