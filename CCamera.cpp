@@ -51,7 +51,7 @@ void CCamera::Render()
 	lookAt.z = 1.0f;
 
 	// Convert the axis in radians
-	pitch = rotX * (float)(D3DX_PI/180); // Magic number for radians converting. 
+	pitch = rotX * (float)(D3DX_PI/180);
 	yaw = rotY * (float)(D3DX_PI/180); 
 	roll = rotZ * (float)(D3DX_PI/180);
 
